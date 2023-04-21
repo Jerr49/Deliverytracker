@@ -1,0 +1,69 @@
+
+.track{
+    background-color: #e6b42e;
+    height: 65px;
+    overflow-y: hidden;
+}
+.track h2{
+    color: white;
+    font-size: 1.6rem;
+    padding: 15px;
+    overflow-y: hidden;
+}
+.track_link{
+    margin-left: 15px;
+}
+.track_link a{
+    text-decoration: none;
+    color: #e6b42e;
+    font-size: 14px;
+}
+.form_bg{
+    background-color: rgb(228, 228, 228);
+    width: 100vw;
+    height: 50vh;
+    margin: auto;
+    padding: 18px;
+}
+.form_bg form{
+    background-color: white;
+    width: 85vw;
+    height: 40vh;
+    /* margin: auto; */
+    padding-top: 40px;
+    border-radius: 12px;
+    text-align: center;
+}
+.form_bg form h1{
+    font-size: 1.3rem;
+    overflow-y: hidden;
+}
+.track_pro{
+    display: grid;
+    gap: 24px;
+}
+.track_pro input{
+    width: 230px;
+    margin-left: 23px;
+    margin-top: 10px;
+    height: 35px;
+    outline: none;
+    padding-left: 10px;
+    border-radius: 7px;
+    border: 1.5px solid grey;
+    font-size: 14px;
+}
+.track_pro button{
+    width: 230px;
+    margin-left: 23px;
+    height: 35px;
+    border: none;
+    background-color: #e6b42e;
+    color: white;
+    font-weight: bold;
+}
+.track_pro p{
+    margin-top: -12px;
+    font-size: 14px;
+    color: rgb(65, 63, 63);
+}
